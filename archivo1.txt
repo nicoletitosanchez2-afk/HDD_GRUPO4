@@ -1,0 +1,2 @@
+ARCHIVO 1
+Contenido de prueba para el archivo 1
