@@ -1,7 +1,4 @@
 ARCHIVO 2
 Contenido de prueba para el archivo 2
-<<<<<<< HEAD
 Contenido modificado por Alexandra
-=======
-Contenido modificado por Yenny
->>>>>>> main
+
